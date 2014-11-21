@@ -3,5 +3,5 @@ Hello-World
 
 My First repository on GitHub
 
-‚±‚±‚ÍwindowsŠÂ‹«‚Å•ÒW‚µ‚Ü‚µ‚½B
+ã“ã“ã¯windowsç’°å¢ƒã§ç·¨é›†ã—ã¾ã—ãŸã€‚
 
